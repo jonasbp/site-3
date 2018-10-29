@@ -1,4 +1,4 @@
-# Convox Docs
+# Convox Docs <img src="https://convox.com/assets/images/logo.png" width="40%">
 
 [![Build Status](https://travis-ci.org/convox/site.svg?branch=master)](https://travis-ci.org/convox/site)
 
